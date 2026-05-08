@@ -41,7 +41,9 @@ Use the A-D to move the paddle left or right.
 Hit the ball to break bricks and score points.
 Complete all levels to win the game.
 # Contributing
-Made this with Faez Ahmed.
+Faez Ahmed
+Hashir Nabeel
 
 # Contact Information
 Email: hashir.nabeel08@gmail.com
+Email: epicfaez@gmail.com
